@@ -34,7 +34,18 @@ No quantified detection range, extinguishing time, or accuracy is currently clai
 See [decisions](docs/03-decision-log.md).
 
 ## Outcome
-A working solo college prototype was built in 2023. The original Arduino sketch, build photos, demonstration video, exact wiring/pin map, and measured test data are still to be uploaded to this repository.
+A working solo college prototype was built in 2023. Two original build photographs are now included below. The original Arduino sketch, demonstration video, exact wiring/pin map, and measured test data are still to be uploaded to this repository.
+
+## Build evidence
+
+The following original photographs show the four-wheel chassis, visible breadboard/wiring, front-mounted servo/nozzle tubing, and onboard container/tubing arrangement. They establish that a physical prototype was built; they do **not** by themselves verify individual sensor behaviour, wiring correctness, pin assignments, or measured fire-extinguishing performance.
+
+| View | Evidence |
+| --- | --- |
+| Front / low angle | ![Front view of the 2023 robot build](assets/robot-front-view-2023.jpeg) |
+| Top / side angle | ![Top view of the 2023 robot build](assets/robot-top-view-2023.jpeg) |
+
+See [build-evidence.md](docs/build-evidence.md) for captions and evidence limits.
 
 ## Risks and mitigations
 Water, electricity, hot surfaces, moving motors, and false sensor readings all introduce safety risks. The project is for controlled demonstration only. See [risks and safety notes](docs/04-risks.md).
@@ -62,3 +73,4 @@ Water, electricity, hot surfaces, moving motors, and false sensor readings all i
 - [Bill of materials](docs/bill-of-materials.md)
 - [Pin map](docs/pin-map.md)
 - [Behaviour diagram](docs/behaviour-diagram.md)
+- [Build evidence](docs/build-evidence.md)
