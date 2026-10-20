@@ -1,0 +1,14 @@
+# Arduino build and editor files
+*.hex
+*.elf
+.vscode/
+.idea/
+.DS_Store
+
+# Local media exports; commit only intentional, rights-owned portfolio evidence
+*.mov
+*.mp4
+*.avi
+
+# Temporary/log files
+*.log
